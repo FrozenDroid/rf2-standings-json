@@ -1,0 +1,9 @@
+
+rf2la_url = ""                   # Path to the rF2 Log analyzer website
+championship_id = 0              # Championship id, which you can find in the URL by going to the championship page, look for ?cid=
+target_file = "./standings.json" # Where to write the json
+
+car_class = "GT3"
+
+[car_numbers] # driver names in lowercase
+frozendroid = 42
